@@ -57,3 +57,6 @@ This repository contains a Finance Tracker application built using FastAPI for t
 
 - The `env` folder containing the Python virtual environment is ignored to maintain security and privacy.
 - For further details on setup, installation, and project structure, refer to the project's code and documentation.
+
+
+![App Screenshot](frontend-page.png)
