@@ -59,4 +59,4 @@ This repository contains a Finance Tracker application built using FastAPI for t
 - For further details on setup, installation, and project structure, refer to the project's code and documentation.
 
 
-![App Screenshot](frontend-page.png)
+![App Screenshot](frontend-page.PNG)
